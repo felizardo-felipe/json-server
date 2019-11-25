@@ -1,34 +1,4 @@
 {
-  "pontos": [
-    {
-      "id": "b397d889-2fec-4172-b673-8f0f89f35f9b",
-      "funcionario": 1353839,
-      "placeTimes": [
-        {
-          "guid": "fc23a863-1c2e-4906-9ae3-3eada6fb0996",
-          "dateTimeUtc": "2019-08-30T18:47:05.261622+00:00",
-          "latitude": 37.421998333333335,
-          "longitude": -122.08400000000002,
-          "endereco": "Amphitheatre Parkway, 1600 - , Santa Clara County - California, 94043",
-          "ehManual": false
-        }
-      ],
-      "situacaoRaw": 3,
-      "situacao": "Registrado",
-      "circustancia": {
-        "offline": false,
-        "foraLocalPermitido": true,
-        "manual": false
-      },
-      "justificativa": null,
-      "criado": "2019-08-30T18:47:08.33636+00:00",
-      "criadoRaw": "20190830184708",
-      "modificado": "2019-08-30T18:50:08.33636+00:00",
-      "modificadoRaw": "20190830185008"
-    }
-  ]
-}
-{
    "tipo":"funcionario",
    "empresaId":"9001",
    "funcionarioContribuinteId":"",
