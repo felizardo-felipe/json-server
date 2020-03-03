@@ -1,26 +1,28 @@
-{
-   "id":"9bcb044f-d7e7-4f52-b0bc-dcc5bbfb068f",
-   "funcionario":1522650,
-   "placeTimes":[
-      {
-         "guid":"092b0bb4-f49c-4d0a-8f96-75e46ebd81cc",
-         "dateTimeUtc":"2020-03-03T14:40:50.658043+00:00",
-         "latitude":-26.921401,
-         "longitude":-49.062125,
-         "endereco":"Avenida Presidente Castelo Branco, 157–361 - Centro,  - SC, 89010-100",
-         "ehManual":false
-      }
-   ],
-   "situacaoRaw":3,
-   "situacao":"Registrado",
-   "circustancia":{
-      "offline":false,
-      "foraLocalPermitido":false,
-      "manual":false
-   },
-   "justificativa":null,
-   "criado":"2020-03-03T14:40:52.067706+00:00",
-   "criadoRaw":"20200303144052",
-   "modificado":"2020-03-03T14:40:52.067706+00:00",
-   "modificadoRaw":"20200303144052"
-}
+[
+   {
+      "id":"9bcb044f-d7e7-4f52-b0bc-dcc5bbfb068f",
+      "funcionario":1522650,
+      "placeTimes":[
+         {
+            "guid":"092b0bb4-f49c-4d0a-8f96-75e46ebd81cc",
+            "dateTimeUtc":"2020-03-03T14:40:50.658043+00:00",
+            "latitude":-26.921401,
+            "longitude":-49.062125,
+            "endereco":"Avenida Presidente Castelo Branco, 157–361 - Centro,  - SC, 89010-100",
+            "ehManual":false
+         }
+      ],
+      "situacaoRaw":3,
+      "situacao":"Registrado",
+      "circustancia":{
+         "offline":false,
+         "foraLocalPermitido":false,
+         "manual":false
+      },
+      "justificativa":null,
+      "criado":"2020-03-03T14:40:52.067706+00:00",
+      "criadoRaw":"20200303144052",
+      "modificado":"2020-03-03T14:40:52.067706+00:00",
+      "modificadoRaw":"20200303144052"
+   }
+]
